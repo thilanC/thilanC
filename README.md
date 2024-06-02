@@ -18,4 +18,4 @@
 
 ---
 
-*“A quote or motto you live by.”* (optional)
+*“Driven by data, powered by AI”* 
