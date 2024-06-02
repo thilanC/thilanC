@@ -1,4 +1,4 @@
-👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Thilan+Charuka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋++Hi+there!+I'm+Thilan+Charuka)](https://git.io/typing-svg)
 
 🌟 **About Me:**
 - 🎓 BSc Honours in Mathematics, Statistics with Computer Science
