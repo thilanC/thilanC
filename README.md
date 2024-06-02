@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi there! I'm Thilan Charuka
 
-<!--
-**thilanC/thilanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me:**
+- 🎓 BSc Honours in Mathematics, Statistics with Computer Science
+- 💼 Currently working as a Machine Learning Engineer at CDAZZDEV
+- 🌱 Passionate about AI, ML, LLMs, deep learning, and data science
 
-Here are some ideas to get you started:
+🔧 **Technologies & Tools:**
+- Languages: Python
+- Areas of Expertise: AI, Machine Learning, LLMs, Deep Learning, Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projects:**
+- 🚀 [Your key project or GitHub repo] (replace with actual link)
+- 🔭 [Another project or repo link] (replace with actual link)
+
+💬 **Connect with Me:**
+- [Your LinkedIn](https://www.linkedin.com/in/thilancharuka/) (replace with actual link)
+
+---
+
+*“A quote or motto you live by.”* (optional)
