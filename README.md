@@ -1,4 +1,4 @@
-👋 Hi there! I'm Thilan Charuka
+👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Thilan;Charuka)](https://git.io/typing-svg)
 
 🌟 **About Me:**
 - 🎓 BSc Honours in Mathematics, Statistics with Computer Science
@@ -14,7 +14,7 @@
 - 🔭 [Another project or repo link] (replace with actual link)
 
 💬 **Connect with Me:**
-- [Your LinkedIn](https://www.linkedin.com/in/thilancharuka/) (replace with actual link)
+- [Your LinkedIn](https://www.linkedin.com/in/thilancharuka/)
 
 ---
 
