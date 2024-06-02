@@ -10,11 +10,11 @@
 - Areas of Expertise: AI, Machine Learning, LLMs, Deep Learning, Data Science
 
 📂 **Projects:**
-- 🚀 [Your key project or GitHub repo] (replace with actual link)
-- 🔭 [Another project or repo link] (replace with actual link)
+- 🚀 Fina Year Research Project - Covid'19 Vaccination Effectiveness
+- 🔭 RAG Based AI Physician - PhysicianAI
 
 💬 **Connect with Me:**
-- [Your LinkedIn](https://www.linkedin.com/in/thilancharuka/)
+- [Linkedin](https://www.linkedin.com/in/thilancharuka/)
 
 ---
 
