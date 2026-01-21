@@ -2,7 +2,7 @@
 
 🌟 **About Me:**
 - 🎓 BSc Honours in Mathematics, Statistics with Computer Science
-- 💼 Currently working as a Machine Learning Engineer at CDAZZDEV
+- 💼 Currently working as a Machine Learning Engineer at Ceylon Solutions
 - 🌱 Passionate about AI, ML, LLMs, deep learning, and data science
 
 🔧 **Technologies & Tools:**
